@@ -2,7 +2,7 @@
 Tourism and Travel
 How To Run Steps:- 
 
-1.	Download both file from- https://github.com/shivranjan77/Laravel-Project 
+1.	Download both file from- https://github.com/siddharth212/laravel-tourism-project.git
 2.	Extract Laravel Project.Rar file 
 3.	Extract 2nd file i.e storage into folder laravel project/new.   (IMPORTANT)
 4.	Start xamp and laravel server by navigating to the project folder and type php artisan serve in cmd.
